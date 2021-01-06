@@ -1,5 +1,5 @@
 print('hello world')
-a = True
-while a == True:
+a = 1
+while a <= 99:
     print("a")
-    a = False
+    a += 1
